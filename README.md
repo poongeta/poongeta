@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cloud-dark.png">
-  <img src="cloud-light.png" alt="full stack, frontend, backend, typescript, javascript, nodejs, python, gamedev, c#, unity, godot, docker, devops, ml, ai">
-</picture>
 
 <!--
 **poongeta/poongeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
