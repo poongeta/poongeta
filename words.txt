@@ -1,0 +1,15 @@
+full stack
+frontend
+backend
+typescript
+javascript
+nodejs
+python
+gamedev
+c#
+unity
+godot
+docker
+devops
+ml
+ai
